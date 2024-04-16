@@ -1,0 +1,15 @@
+h1 {
+  color: BlanchedAlmond;
+  font-size: 30px;
+  
+}
+
+body {
+  background-color: LightGray;
+  text-align: center;
+
+}
+
+img {
+  max-width: 80%;
+}
